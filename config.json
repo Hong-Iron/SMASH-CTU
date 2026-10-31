@@ -1,0 +1,159 @@
+{
+  "code": "CTU",
+  "title": "SMASH CTU",
+  "school": "전남과학대",
+  "fullName": "전남과학대학교",
+  "campusName": "전남과학대학교",
+  "tagline": "전남과학대를 부셔 (시험기간 스트레스 해소)",
+  "description": "전남과학대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 전남과학대학교 3D 화면과 SMASH CTU 제목",
+  "url": "https://hong-iron.github.io/SMASH-CTU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 537892908
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.2743814,
+        127.1305289
+      ],
+      "n": "옥과고등학교",
+      "why": "학교 건물 아님 — 캠퍼스 경계 밖 율사리 334 부지에 있고 건축물대장 이름이 옥과고등학교인, 바로 옆 고등학교의 본관이다."
+    },
+    {
+      "at": [
+        35.2743693,
+        127.1313764
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 옥과고등학교와 같은 부지(율사리 334)에 있고 사용승인일도 같은 캠퍼스 밖 건물이라 옆 고등학교 시설이다."
+    },
+    {
+      "at": [
+        35.2744852,
+        127.1301408
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 캠퍼스 경계 밖 옥과고등학교 부지(율사리 334)에 있는 ㄱ자 건물로 옆 고등학교 건물이다."
+    },
+    {
+      "at": [
+        35.2739344,
+        127.1304185
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 옥과고등학교 부지(율사리 334) 운동장 옆의 작은 건물로 대학 캠퍼스 밖에 있다."
+    },
+    {
+      "at": [
+        35.2742629,
+        127.1300968
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 옥과고등학교 부지(율사리 334)에서 고등학교 건물 위에 겹쳐 그려진 윤곽이라 대학 건물이 아니다."
+    },
+    {
+      "at": [
+        35.2769561,
+        127.1332128
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 캠퍼스 동쪽 끝 마을 쪽의 182㎡짜리 따로 떨어진 대지(옥과리 202-1 대)에 단독주택으로 등록된 집이다."
+    },
+    {
+      "at": [
+        35.2772813,
+        127.1328688
+      ],
+      "n": "",
+      "why": "같은 건물 겹침 — 기숙사(27번) 지붕 안에 겹친 43㎡짜리 조각으로, 같은 기숙사의 대장 기록(1996년 사용승인 5층)을 단 중복 윤곽이다."
+    },
+    {
+      "at": [
+        35.2776772,
+        127.1326043
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 학교 부지가 아닌 132㎡짜리 따로 떨어진 대지(옥과리 335 대)를 자기 대지로 등록한 2층 창고로, 대학 부지(34,280㎡)에 등록된 대학 건물들과 대장이 다르다."
+    }
+  ],
+  "look": {
+    "설산관": {
+      "style": "concrete",
+      "wall": "#eef1f3",
+      "glass": "#1e262c",
+      "frame": "#578ba0"
+    },
+    "푸른바위동": {
+      "style": "stone",
+      "wall": "#e6e8ec",
+      "glass": "#3a434a",
+      "frame": "#56595a"
+    },
+    "본관": {
+      "style": "brick",
+      "wall": "#5c3d3a",
+      "glass": "#30363d",
+      "frame": "#e2e2e4",
+      "roof": "#3c424c",
+      "hip": true
+    },
+    "청람학숙": {
+      "style": "dorm",
+      "wall": "#d5888b",
+      "glass": "#383836",
+      "frame": "#eeedf0"
+    },
+    "승지원": {
+      "style": "ribbon",
+      "wall": "#c6c9d4",
+      "glass": "#3e4a5e",
+      "frame": "#9b8989"
+    },
+    "우암관": {
+      "style": "stone",
+      "wall": "#e5e9ec",
+      "glass": "#42474b",
+      "frame": "#c5c1c1"
+    },
+    "2호관": {
+      "style": "brick",
+      "wall": "#6e5a5c",
+      "glass": "#3c4652",
+      "frame": "#e2e2e4",
+      "roof": "#5b8fd0",
+      "hip": true
+    },
+    "교문동": {
+      "style": "brick",
+      "wall": "#7a524c",
+      "glass": "#2e3a40",
+      "frame": "#e8e6e0"
+    },
+    "3호관": {
+      "style": "brick",
+      "wall": "#80625e",
+      "glass": "#3a434c",
+      "frame": "#e0dcd8"
+    },
+    "옥설관": {
+      "style": "stone",
+      "wall": "#dcdcd8",
+      "glass": "#3f5248",
+      "frame": "#6a6e66",
+      "roof": "#6a3b36",
+      "hip": true
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
